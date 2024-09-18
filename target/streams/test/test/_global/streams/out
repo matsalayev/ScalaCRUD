@@ -1,0 +1,14 @@
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(UserRepositoryImplTest, org.scalatest.tools.Framework$$anon$1@509db442, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mUserRepositoryImplTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mUserRepositoryImpl[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should create a user[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should read a user by id[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should update a user[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should delete a user by id[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 4 seconds, 347 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 4[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 1, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 4, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserRepositoryImplTest[0m
