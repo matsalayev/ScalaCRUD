@@ -1,10 +1,5 @@
-[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = D:\Programming\pgconnect\target\scala-2.13\test-classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = /media/matsalayev/HDD/Programming/pgconnect/target/scala-2.13/test-classes.bak[0m
 [0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
-[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
-[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = D:\Programming\pgconnect\target\scala-2.13\test-classes.bak[0m
-[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
-[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
-[0m[[0m[0mdebug[0m] [0m[0mRegistering generated classes:[0m
 [0m[[0m[0mdebug[0m] [0m[0m	UserRepositoryImplTest$$typecreator2$1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	UserRepositoryImplTest$$typecreator7$1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	UserRepositoryImplTest$$typecreator4$1.class[0m
@@ -16,4 +11,34 @@
 [0m[[0m[0mdebug[0m] [0m[0m	UserRepositoryImplTest$$typecreator9$1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	UserRepositoryImplTest$$typecreator6$1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	UserRepositoryImplTest.class[0m
-[0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: D:\Programming\pgconnect\target\scala-2.13\test-classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserRepositoryImplTest$$typecreator2$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserRepositoryImplTest$$typecreator7$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserRepositoryImplTest$$typecreator4$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserRepositoryImplTest$$typecreator10$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserRepositoryImplTest$$typecreator1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserRepositoryImplTest$$typecreator8$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserRepositoryImplTest$$typecreator3$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserRepositoryImplTest$$typecreator5$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserRepositoryImplTest$$typecreator9$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserRepositoryImplTest$$typecreator6$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserRepositoryImplTest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = /media/matsalayev/HDD/Programming/pgconnect/target/scala-2.13/test-classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mRegistering generated classes:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ReadTest$$typecreator2$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UpdateTest$$typecreator2$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CreateTest$$typecreator1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ReadTest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ReadTest$$typecreator3$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UpdateTest$$typecreator1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CreateTest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ReadTest$$typecreator1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CreateTest$$typecreator3$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DeleteTest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DeleteTest$$typecreator2$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DeleteTest$$typecreator1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UpdateTest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CreateTest$$typecreator2$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: /media/matsalayev/HDD/Programming/pgconnect/target/scala-2.13/test-classes.bak[0m

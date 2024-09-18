@@ -8,11 +8,11 @@
 [0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: [0m
 [0m[[0m[0mdebug[0m] [0m[0mRecompiling all sources: number of invalidated sources > 50.0 percent of all sources[0m
 [0m[[0m[0mdebug[0m] [0m[0mcompilation cycle 1[0m
-[0m[[0m[0minfo[0m] [0m[0mcompiling 2 Scala sources to D:\Programming\pgconnect\target\scala-2.13\classes ...[0m
-[0m[[0m[0mdebug[0m] [0m[0mReturning already retrieved and compiled bridge: C:\Users\Azizbek\AppData\Local\Coursier\Cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala2-sbt-bridge\2.13.12\scala2-sbt-bridge-2.13.12.jar.[0m
-[0m[[0m[0mdebug[0m] [0m[0m[zinc] Running cached compiler 72fa993c for Scala compiler version 2.13.12[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 2 Scala sources to /media/matsalayev/HDD/Programming/pgconnect/target/scala-2.13/classes ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mReturning already retrieved and compiled bridge: /home/matsalayev/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala2-sbt-bridge/2.13.12/scala2-sbt-bridge-2.13.12.jar.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] Running cached compiler 75f60b4 for Scala compiler version 2.13.12[0m
 [0m[[0m[0mdebug[0m] [0m[0m[zinc] The Scala compiler is invoked with:[0m
 [0m[[0m[0mdebug[0m] [0m[0m	-classpath[0m
-[0m[[0m[0mdebug[0m] [0m[0m	D:\Programming\pgconnect\target\scala-2.13\classes;C:\Users\Azizbek\AppData\Local\Coursier\Cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.13.12\scala-library-2.13.12.jar;C:\Users\Azizbek\AppData\Local\Coursier\Cache\v1\https\repo1.maven.org\maven2\org\postgresql\postgresql\42.2.5\postgresql-42.2.5.jar[0m
-[0m[[0m[0mdebug[0m] [0m[0mScala compilation took 4.4614257 s[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/media/matsalayev/HDD/Programming/pgconnect/target/scala-2.13/classes:/home/matsalayev/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.12/scala-library-2.13.12.jar:/home/matsalayev/.cache/coursier/v1/https/repo1.maven.org/maven2/org/postgresql/postgresql/42.2.5/postgresql-42.2.5.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mScala compilation took 3.136177663 s[0m
 [0m[[0m[0mdebug[0m] [0m[0mdone compiling[0m
